@@ -1,4 +1,6 @@
-{
-  "UserID": 1,
-  "GlobalTemp": "+1.9 Degrees"
-}
+[
+  {
+    "UserID": 1,
+    "GlobalTemp": "+1.9 Degrees"
+  }
+]
